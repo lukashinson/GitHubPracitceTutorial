@@ -37,4 +37,4 @@ This command stores the current contents of the index in a new commit along with
 
 
 
-![Click here if this helped at all!](https://www.google.com/url?sa=i&source=images&cd=&cad=rja&uact=8&ved=2ahUKEwipr7fXkZnfAhWNyIMKHeLcCJwQjRx6BAgBEAU&url=https%3A%2F%2Fwww.pinterest.com%2Fpin%2F137641332333365715%2F&psig=AOvVaw0W7Cntk4VDuC8-q4GWcPH7&ust=1544664462391151)
+![Click this for the mood!](https://static.clubs.nfl.com/image/private/t_photogallery_2x/f_auto/chiefs/o9qklvclm9uayn8hxd1o.jpg)
