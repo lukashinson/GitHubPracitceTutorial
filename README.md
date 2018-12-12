@@ -32,3 +32,9 @@ This command stores the current contents of the index in a new commit along with
 
 
 [This link will take you to a video that helped me understand the command line and Github better!!](https://www.youtube.com/watch?v=0fKg7e37bQE)
+
+
+
+
+
+![Click here if this helped at all!](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
