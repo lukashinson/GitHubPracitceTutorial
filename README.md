@@ -7,8 +7,11 @@ In git there a some commands that you will need to learn:
 <li>git pull</li>
 <li>git add</li>
 <li>git commit</li>
-*CD command*
+
+
+**CD command**
 The Cd command is the command you use to change directories. To get yourself in the spot so you can start your project.
+
 
 
 **Git Push**
